@@ -1,0 +1,6 @@
+{
+  "name": "AI 윤리 딜레마 참답 플랫폼",
+  "description": "인공지능의 윤리적 딜레마 상황을 마주하고 의견을 투표하며, 다양한 세대와 성별의 생각 통계를 탐색하는 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
